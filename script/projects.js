@@ -14,7 +14,7 @@ window.onload = () => {
 
     // ctx.beginPath();
     // // ctx.moveTo(0,0);
-    // // ctx.lineTo(0,0);
+    // // ctx.lineTo(0,0);f
     // ctx.fillStyle = "rgba(200,100,0,0.5)"
     // // for (let i = 0; i < 5; i++) {
     // //     ctx.fillRect((10*i),(10*i),(100*i),(100*i));
